@@ -1,5 +1,4 @@
 app/AntHalService.apk
-app/GooManager.apk
 bin/akmd2
 bin/hciattach
 bin/nvimport
